@@ -88,6 +88,5 @@ David - GPA: 4.1
 
 ---
 
-## 📜 License
-This project is open-source under the **MIT License**.
-You are free to use, modify, and distribute it with attribution.
+## 👨‍💻 Programmer
+**Anuraag Raj**
