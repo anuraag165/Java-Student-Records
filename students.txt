@@ -1,0 +1,16 @@
+Name	GPA
+Alice	4.5
+Bob	3.9
+Charlie	4.2
+David	4.8
+Eve	4.1
+Frank	3.5
+Grace	4.7
+Heidi	4.0
+Ivan	4.35
+Judy	3.8
+Kevin	4.9
+Laura	4.6
+Mike	3.95
+Nina	4.3
+Oscar	4.25
